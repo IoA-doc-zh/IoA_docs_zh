@@ -26,13 +26,13 @@ exclude_patterns = []
 html_theme = "furo"
 html_static_path = ["_static"]
 
-html_theme_options = {
-    "source_repository": "https://IoA-doc-zh/IoA_docs_zh",
-    "source_branch": "main",
-    "source_directory": "docs/source",
-    # "source_view_link": "https://github.com/OpenBMB/IoA/docs/{filename}",
-    # Additional theme options can be added here
-}
+# html_theme_options = {
+#     "source_repository": "https://IoA-doc-zh/IoA_docs_zh",
+#     "source_branch": "main",
+#     "source_directory": "docs/source",
+#     # "source_view_link": "https://github.com/OpenBMB/IoA/docs/{filename}",
+#     # Additional theme options can be added here
+# }
 
 html_css_files = [
     "custom.css",
